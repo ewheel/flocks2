@@ -1,0 +1,7 @@
+Introduction:
+Our goal is to produce a GUI interface for driving a "game engine" of sorts.  The end result should be as easily extensible 
+as possible for different formation types, different behaviors, and dynamic updating of graphical information.  We hope to 
+get our flocks recognizing obstacles and responding to them, allowing the mouse to be recognized by the graphics to promote
+human interaction with the program, and allowing individual flock members some autonomy from the collective flock.
+
+Overview
